@@ -28,3 +28,6 @@ Although the model is capable of picking up on explicitly offensive words and tw
 In order for the model to reach its potential, it must lean more heavily on human understanding. Human beings are typically better equipped to understand the intent of a given tweet and correctly classify it often with a tweet in response. 
 
 Honing the model to collect replies in addition to tweets could vastly improve the model as a tool to flag racism on Twitter. If someone writes something that Twitter users consider racist, those Twitter users will likely call out the Tweet as racist in their replies. Hard coding comments like "this is racist", "you are racist", etc. to the model could help point out posts that are intentionally racist.  Being able to combine the capabilities of machine learning processing with human instinct and intellect would likely create a more accurate model. 
+
+
+Data Source: https://www.kaggle.com/chirag19/twitter-sentiment-analysis?select=train_E6oV3lV.csv
